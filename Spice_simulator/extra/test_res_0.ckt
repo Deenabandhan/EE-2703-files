@@ -1,0 +1,7 @@
+.circuit
+v1 1 GND dc 3
+r1 1 2 3
+r2 2 GND 0
+.end
+
+#This circuit will be an issue as we cannot divide by 0

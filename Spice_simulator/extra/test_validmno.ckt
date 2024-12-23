@@ -1,0 +1,7 @@
+.circuit
+v1 1 GND dc 3
+r1 1 2 3
+r2 2 GND frfuj
+.end
+
+#This circuit will raise an error in normal case as the resistance is not valid
