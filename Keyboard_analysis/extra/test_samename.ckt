@@ -1,0 +1,7 @@
+.circuit
+v1 1 GND dc 3
+r1 1 2 3
+v1 2 GND dc 1
+.end
+
+#This circuit will be an issue as two voltage sources have same name

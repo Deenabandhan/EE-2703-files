@@ -1,0 +1,8 @@
+.circuit
+v1 1 GND dc 3
+r1 1 2 3
+r2 2 GND 4
+v2 2 3 dc 4 
+.end
+
+#This circuit will be an issue if we don't consider the nodes of voltage
